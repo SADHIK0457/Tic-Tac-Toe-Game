@@ -5,9 +5,15 @@ It’s fully responsive, lightweight, and perfect for two players to enjoy with 
 
 🖥️ Live Demo
 
-👉 (You can add this after hosting on GitHub Pages)
+https://sadhik0457.github.io/Tic-Tac-Toe-Game/
 
-https://yourusername.github.io/tic-tac-toe-game/
+Desktop View : 
+
+<img width="1908" height="903" alt="desktop-view" src="https://github.com/user-attachments/assets/d7a15784-7ace-414d-844d-83f4665521e5" />
+
+Mobile View :
+
+<img width="522" height="885" alt="mobile-view" src="https://github.com/user-attachments/assets/9d2e8447-d899-4206-96ca-c8969111b4c9" />
 
 
 🧠 Project Overview
